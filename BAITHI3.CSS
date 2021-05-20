@@ -1,0 +1,94 @@
+body {
+  margin: 1px;
+}
+/*------------------------Khung Header------*/
+#tong {
+  display: inline-block;
+  background-color: #f8f9fa;
+  width: 100%;
+  height: 800px;
+}
+#tieude {
+  width: 100%;
+  height: 100px;
+  background-color: #cd1818;
+}
+#logo {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-position: -2px -7px;
+  margin-left: 120px;
+  margin-top: 15px;
+  background-image: url(/IMAGE/xm.jpg);
+  background-size: 100% 80px;
+  background-repeat: no-repeat;
+  text-decoration: none;
+}
+.Lucky {
+  float: left;
+  color: white;
+  margin-top: 1%;
+  margin-left: 18%;
+  height: 100%;
+  font-size: 50px;
+  font-weight: 900;
+}
+/*--------------------------*/
+#khung-dn {
+  background-image: url(/IMAGE/signin.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 600px;
+  width: 100%;
+  float: left;
+}
+#dn-1 {
+  float: left;
+  height: 350px;
+  width: 650px;
+  margin-left: 400px;
+  margin-top: 85px;
+}
+
+#khung-so {
+  width: 105%;
+  height: 100px;
+}
+#khung-s2 {
+  width: 450px;
+  height: 60px;
+  float: left;
+
+  margin-left: 100px;
+}
+.tkk {
+  margin-left: 30px;
+  font-size: 25px;
+  margin-top: 15px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  align-items: center;
+  font-weight: 900;
+  color: rgb(243, 63, 9);
+  text-transform: uppercase;
+  user-select: none;
+}
+.tk1 {
+  margin-top: 20px;
+  margin-left: 120px;
+  width: 400px;
+  height: 40px;
+  float: left;
+}
+
+.bt1 {
+  margin-top: 25px;
+  margin-left: 120px;
+  width: 410px;
+  height: 40px;
+  float: left;
+  background-color: #cd1818;
+  cursor: pointer;
+}
